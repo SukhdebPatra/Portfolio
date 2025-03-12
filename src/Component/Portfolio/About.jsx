@@ -1,6 +1,7 @@
 import React from "react";
 import { ABOUT_TEXT } from "../../constants";
 import { motion } from "framer-motion";
+import AboutMe from "../../assets/About.png";
 
 const About = () => {
   return (
@@ -18,7 +19,7 @@ const About = () => {
           >
             <img
               className="rounded-2xl w-full max-w-xs lg:max-w-md"
-             src="src/assets/About_me-removebg.png"
+              src={AboutMe}
               alt="about"
             />
           </motion.div>
