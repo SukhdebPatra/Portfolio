@@ -68,6 +68,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Chaibasa, West Singhbhum , Jharkhand, 833201",
-  phoneNo: "+91 7903 8451 75 ",
+  phoneNo: "+91 7903 8451 76 ",
   email: "sukhdebpatra1@gmail.com",
 };
