@@ -54,14 +54,14 @@ export const PROJECTS = [
     title: "Interior design website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "The Project aimed to build the interior design of a website that showcases key features and a responsive layout without  integrating any backend services.This project was intended to focus purely on frontend development, UI/UX design, and responsive design principles.",
     technologies: ["HTML", "CSS", "React", "Boostrap"],
   },
   {
     title: "Travel agency website",
     image: project5,
     description:
-      "Designed and developed a static website for  a travel agency platform, utilizing HTML,CSS,Javacript and React, Appealing and user-friendly site.",
+      "  Designed and developed a static website for  a travel agency platform, utilizing HTML,CSS,Javacript and React, Appealing and user-friendly site.",
     technologies: ["HTML", "CSS", "React", "Boostrap"],
   },
 ];
