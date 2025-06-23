@@ -4,13 +4,13 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project5.jpg";
 
-export const HERO_CONTENT = `I am a passionate React developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React , as well as back-end technologies like Node.js, Express, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate React developer with a knack for crafting robust and scalable web applications. With three years of hands-on experience, I have honed my skills in front-end technologies like React , as well as back-end technologies like Node.js, Express, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile front end  developer with a passion for creating efficient and user-friendly web applications. With 2 years of professional experience, I have worked with React, Html, Css, javascript, Tailwind, Boostrap. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile front end  developer with a passion for creating efficient and user-friendly web applications. With three years of professional experience, I have worked with React, Html, Css, javascript, Tailwind, Boostrap. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - 2024",
+    year: "2023 - 2025",
     role: "Associate Software Engineer  ",
     company: "Pentamount Technologies.",
     description: `Developed and maintained web applications using JavaScript, React.js. 
